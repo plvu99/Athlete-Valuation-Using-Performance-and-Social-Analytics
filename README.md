@@ -18,13 +18,13 @@ By integrating new analytics pipelines and dashboards, the project enables more 
 Current athlete valuation models face several major limitations:
 
 - Incomplete understanding of athlete value
-  Performance metrics alone fail to capture cognitive ability, behavioral traits, and brand influence.
+  - Performance metrics alone fail to capture cognitive ability, behavioral traits, and brand influence.
 
 - Inconsistent evaluation across stakeholders
-  Athletes, organizations, and brands often rely on different criteria when assessing talent.
+  - Athletes, organizations, and brands often rely on different criteria when assessing talent.
 
 - Mismatch between athletes and brand partnerships
-  Brands struggle to evaluate whether an athlete’s audience, personality, and influence align with their marketing goals. 
+  - Brands struggle to evaluate whether an athlete’s audience, personality, and influence align with their marketing goals. 
 
 As a result, athletes may be under-valued, teams may make suboptimal recruitment decisions, and brands may invest in endorsements with poor alignment.
 
