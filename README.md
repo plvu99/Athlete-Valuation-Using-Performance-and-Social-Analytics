@@ -17,14 +17,11 @@ By integrating new analytics pipelines and dashboards, the project enables more 
 
 Current athlete valuation models face several major limitations:
 
-- Incomplete understanding of athlete value
-  - Performance metrics alone fail to capture cognitive ability, behavioral traits, and brand influence.
+- Incomplete understanding of athlete value - Performance metrics alone fail to capture cognitive ability, behavioral traits, and brand influence.
 
-- Inconsistent evaluation across stakeholders
-  - Athletes, organizations, and brands often rely on different criteria when assessing talent.
+- Inconsistent evaluation across stakeholders - Athletes, organizations, and brands often rely on different criteria when assessing talent.
 
-- Mismatch between athletes and brand partnerships
-  - Brands struggle to evaluate whether an athlete’s audience, personality, and influence align with their marketing goals. 
+- Mismatch between athletes and brand partnerships - Brands struggle to evaluate whether an athlete’s audience, personality, and influence align with their marketing goals. 
 
 As a result, athletes may be under-valued, teams may make suboptimal recruitment decisions, and brands may invest in endorsements with poor alignment.
 
@@ -38,16 +35,16 @@ The proposed system integrates multiple data sources across athletic performance
 
 Collected through:
 
-* Game statistics
-* Video tracking systems
-* Computer vision analysis
+* game statistics
+* video tracking systems
+* computer vision analysis
 
 Key metrics include:
 
-* Passing efficiency
-* Shooting accuracy
-* Defensive pressure resistance
-* Rebounding performance
+* passing efficiency
+* shooting accuracy
+* defensive pressure resistance
+* rebounding performance
 
 These metrics contribute to the **Skill Execution Index**, measuring technical performance. 
 
@@ -55,10 +52,10 @@ These metrics contribute to the **Skill Execution Index**, measuring technical p
 
 New behavioral and cognitive indicators capture decision-making ability and leadership qualities:
 
-* Reaction time
-* Situational awareness
-* Tactical decision making
-* Coach-ability metrics from sideline behavior
+* reaction time
+* situational awareness
+* tactical decision making
+* coach-ability metrics from sideline behavior
 
 These contribute to the **Cognitive Performance Index** and **Sideline Behavior Metrics**. 
 
@@ -66,9 +63,9 @@ These contribute to the **Cognitive Performance Index** and **Sideline Behavior 
 
 Health and performance sustainability indicators include:
 
-* Sleep duration
-* Sleep quality
-* Wearable device data
+* sleep duration
+* sleep quality
+* wearable device data
 
 These metrics form the **Athlete Wellness Index**, providing organizations with insights into long-term athlete performance potential.
 
@@ -76,10 +73,10 @@ These metrics form the **Athlete Wellness Index**, providing organizations with 
 
 For brand partnerships and NIL valuation, the system integrates social influence metrics:
 
-* Network size
-* Follower engagement
-* Closeness centrality
-* Betweenness centrality
+* network size
+* follower engagement
+* closeness centrality
+* betweenness centrality
 
 These indicators measure an athlete’s influence and brand alignment potential.
 
@@ -93,11 +90,11 @@ The proposed solution uses a three-stage analytics pipeline.
 
 Data is gathered from multiple sources:
 
-* Public sports data APIs
-* Computer vision video analysis
-* Wearable sensors
-* Brand marketing datasets
-* Athlete surveys and behavioral assessments
+* public sports data APIs
+* computer vision video analysis
+* wearable sensors
+* brand marketing datasets
+* athlete surveys and behavioral assessments
 
 Different data streams serve different stakeholders:
 
@@ -105,7 +102,7 @@ Different data streams serve different stakeholders:
 | ------------- | ---------------------------------------------- |
 | Athletes      | Skill execution and cognitive performance      |
 | Organizations | Sideline behavior and wellness metrics         |
-| Brands        | social network influence and persona alignment |
+| Brands        | Social network influence and persona alignment |
 
 ### Phase 2 — Data Analysis
 
@@ -188,9 +185,9 @@ Different users require tailored insights:
 
 | User               | Dashboard Focus                        |
 | ------------------ | -------------------------------------- |
-| Athletes           | performance development insights       |
-| Athletic Directors | recruitment and team optimization      |
-| Brands             | endorsement fit and audience influence |
+| Athletes           | Performance development insights       |
+| Athletic Directors | Recruitment and team optimization      |
+| Brands             | Endorsement fit and audience influence |
 
 Interactive dashboards enable each stakeholder to make more informed decisions.
 
